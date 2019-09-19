@@ -1,0 +1,16 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  background-color: darkblue;
+  border-style: solid;
+
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}

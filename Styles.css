@@ -1,16 +1,41 @@
 body {
-  background-color: lightblue;
+  background-color: #AA3939;
 }
 
 h1 {
   color: white;
-  text-align: center;
-  background-color: darkblue;
+  text-align: left;
+  background-color: #550000;
   border-style: solid;
+padding-left: 25px;
+padding-top: 25px;
+padding-bottom: 25px;
+margin-top: auto;
+}
+a {
+
+  outline-style: solid;
+  outline-color: black;
+margin-left: 6px;
+margin-right: 6px;
 
 }
-
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+p.footer{
+  display: block;
+  font: italic bold 8px/8px Georgia, serif;
+}
 p {
+  color: white;
+  margin-left: 100px;
+  margin-right: 100px;
   font-family: verdana;
   font-size: 20px;
 }
